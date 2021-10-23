@@ -19,20 +19,20 @@
     <tbody> 
         <tr>
             <td>AddressBook</td>
-            <td><a href="https://basakkurtlab.github.io/addressbook/" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/BasakKurtLab/addressbook" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://github.com/BasakKurtLab/addressbook" target="_blank">Repo details</a></td>
+            <td><a href="https://basakkurtlab.github.io/addressbook/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
-            <td>Project</td>
-            <td><a href="" target="_blank">Repo details</a></td>
-            <td><a href="" target="_blank">Click here to see the project</a></td>
+            <td>Monster-Hunting</td>
+            <td><a href="https://github.com/BasakKurtLab/Monster-Hunting" target="_blank">Repo details</a></td>
+            <td><a href="https://basakkurtlab.github.io/Monster-Hunting/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
-            <td>Project</td>
-            <td><a href="" target="_blank">Repo details</a></td>
-            <td><a href="" target="_blank">Click here to see the project</a></td>
+            <td>Login Form</td>
+            <td><a href="https://github.com/BasakKurtLab/Login" target="_blank">Repo details</a></td>
+            <td><a href="https://basakkurtlab.github.io/Login/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
