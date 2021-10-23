@@ -18,9 +18,9 @@
     </thead>
     <tbody> 
         <tr>
-            <td>Guest App</td>
-            <td><a href="https://github.com/BasakKurtLab/Guest-Reg-App" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/BasakKurtLab/Guest-Reg-App" target="_blank">Click here to see the project</a></td>
+            <td>AddressBook</td>
+            <td><a href="https://basakkurtlab.github.io/addressbook/" target="_blank">Repo details</a></td>
+            <td><a href="https://github.com/BasakKurtLab/addressbook" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
