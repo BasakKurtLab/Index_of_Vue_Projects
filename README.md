@@ -48,9 +48,9 @@
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
-            <td>Project</td>
-            <td><a href="" target="_blank">Repo details</a></td>
-            <td><a href="" target="_blank">Click here to see the project</a></td>
+            <td>Weather App</td>
+            <td><a href="https://github.com/BasakKurtLab/Weather_App" target="_blank">Repo details</a></td>
+            <td><a href="https://6179a1aee7ca7b5c278c3c52--peaceful-easley-eabf6a.netlify.app/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
