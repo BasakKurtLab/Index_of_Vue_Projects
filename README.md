@@ -43,8 +43,8 @@
         </tr>
          <tr>
             <td>Todo Shopping List</td>
-            <td><a href="todolist-vue-created.netlify.app" target="_blank">Repo details</a></td>
-            <td><a href="https://github.com/BasakKurtLab/todo-shopping-list" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://github.com/BasakKurtLab/todo-shopping-list" target="_blank">Repo details</a></td>
+            <td><a href="todolist-vue-created.netlify.app" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
