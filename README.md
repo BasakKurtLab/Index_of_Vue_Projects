@@ -36,9 +36,9 @@
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
         <tr>
-            <td>Project</td>
-            <td><a href="" target="_blank">Repo details</a></td>
-            <td><a href="" target="_blank">Click here to see the project</a></td>
+            <td>Guest Registration App</td>
+            <td><a href="https://github.com/BasakKurtLab/Guest-Reg-App" target="_blank">Repo details</a></td>
+            <td><a href="https://guest-reg-app.netlify.app/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
