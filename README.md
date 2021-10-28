@@ -3,7 +3,7 @@
 
 <p align="center"> 
 
-<h1 align="center">Index of React Projects</h1>
+<h1 align="center">Index of Vue Projects</h1>
 
 </p>
 
