@@ -51,7 +51,7 @@
             <td>Weather App</td>
             <td><a href="https://github.com/BasakKurtLab/Weather_App" target="_blank">Repo details</a></td>
             <td><a href="https://peaceful-easley-eabf6a.netlify.app/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="https://user-images.githubusercontent.com/79793959/139822450-0dfac236-a587-4925-bef4-5f8da9cd6876.png" alt="html" height=130></td> 
         </tr>
          <tr>
             <td>Project</td>
