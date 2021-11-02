@@ -33,7 +33,7 @@
             <td>Login Form</td>
             <td><a href="https://github.com/BasakKurtLab/Login" target="_blank">Repo details</a></td>
             <td><a href="https://basakkurtlab.github.io/Login/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="https://user-images.githubusercontent.com/79793959/139823925-f041887f-fe2e-45ca-a3fd-ed58a48353e5.png" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Guest Registration App</td>
@@ -45,7 +45,7 @@
             <td>Todo Shopping List</td>
             <td><a href="https://github.com/BasakKurtLab/todo-shopping-list" target="_blank">Repo details</a></td>
             <td><a href="https://todolist-vue-created.netlify.app/#/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:250px;" src="https://user-images.githubusercontent.com/79793959/139823524-712b8e19-e42c-4402-b23e-6d93214d7700.png" alt="html" height=130></td> 
         </tr>
          <tr>
             <td>Weather App</td>
