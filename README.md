@@ -21,7 +21,7 @@
             <td>AddressBook</td>
             <td><a href="https://github.com/BasakKurtLab/addressbook" target="_blank">Repo details</a></td>
             <td><a href="https://basakkurtlab.github.io/addressbook/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:250px;" src="https://user-images.githubusercontent.com/79793959/139824340-cafb89d9-6ed0-46db-b033-6a7e2780694b.png" alt="html" height=130></td> 
         </tr>
         <tr>
             <td>Monster-Hunting</td>
