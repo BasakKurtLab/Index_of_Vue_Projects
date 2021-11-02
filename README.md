@@ -45,13 +45,13 @@
             <td>Todo Shopping List</td>
             <td><a href="https://github.com/BasakKurtLab/todo-shopping-list" target="_blank">Repo details</a></td>
             <td><a href="https://todolist-vue-created.netlify.app/#/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:200px;" src="" alt="html" height=130></td> 
+            <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
             <td>Weather App</td>
             <td><a href="https://github.com/BasakKurtLab/Weather_App" target="_blank">Repo details</a></td>
             <td><a href="https://peaceful-easley-eabf6a.netlify.app/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:250px;" src="https://user-images.githubusercontent.com/79793959/139822450-0dfac236-a587-4925-bef4-5f8da9cd6876.png" alt="html" height=250></td> 
+            <td><img style="width:250px;" src="https://user-images.githubusercontent.com/79793959/139822450-0dfac236-a587-4925-bef4-5f8da9cd6876.png" alt="html" ></td> 
         </tr>
          <tr>
             <td>Project</td>
