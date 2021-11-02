@@ -45,7 +45,7 @@
             <td>Todo Shopping List</td>
             <td><a href="https://github.com/BasakKurtLab/todo-shopping-list" target="_blank">Repo details</a></td>
             <td><a href="https://todolist-vue-created.netlify.app/#/" target="_blank">Click here to see the project</a></td>
-            <td><img style="width:500px;" src="" alt="html" height=130></td> 
+            <td><img style="width:200px;" src="" alt="html" height=130></td> 
         </tr>
          <tr>
             <td>Weather App</td>
